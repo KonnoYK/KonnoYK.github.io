@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>忘川居士的博客</title>
+  <title>Pazuris的博客</title>
   
-  <subtitle>纯小白的自娱自乐博客</subtitle>
+  <subtitle>个人学习笔记分享</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>忘川居士</name>
+    <name>Pazuris</name>
     
   </author>
   
