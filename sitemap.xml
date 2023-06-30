@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://konnoyk.github.io/2022/11/13/css3/</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://konnoyk.github.io/about/index.html</loc>
     
     <lastmod>2023-06-30</lastmod>
@@ -45,6 +54,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://konnoyk.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
